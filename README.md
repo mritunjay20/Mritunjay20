@@ -21,7 +21,7 @@ I'm a student passionate about technology, programming, electronics, mechanics, 
 🐍 MY CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://github.com/mritunjay20/Mritunjay20/blob/main/.github%2Fworkflows%2Fsnake.yml" alt="GitHub contribution snake" width="100%">
+  <img src="https://raw.githubusercontent.com/mritunjay20/Mritunjay20/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%">
 </p>---
 
 🌟 PROJECT HIGHLIGHTS
