@@ -147,7 +147,7 @@ Exploring AI agents, automation, and software integration to make technology mor
   <a href="YOUR_FACEBOOK_LINK">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="YOUR_PINTEREST_LINK">
+  <a href="https://pin.it/s58lgQaN0">
     <img src="https://img.shields.io/badge/PINTEREST-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
   </a>
   <a href="https://x.com/mritunjay_33442">
