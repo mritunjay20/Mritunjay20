@@ -118,16 +118,16 @@ Exploring AI agents, automation, and software integration to make technology mor
   <img src="https://github-profile-trophy.vercel.app/?username=mritunjay20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub trophies">
 </p>---
 
-🏙️ MY GITHUB CITY
-
-<h2 align="center">🌳 My 3D Contribution Forest</h2>
+<h2 align="center">🏙️ My GitHub City</h2>
 
 <p align="center">
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    alt="My 3D GitHub contribution graph"
-    width="100%"
-  />
+  <a href="https://gitcity.natrajx.in/mritunjay20">
+    <img
+      src="https://gitcity.natrajx.in/api/svg?u=mritunjay20&theme=aurora"
+      alt="My GitHub contributions as a 3D city"
+      width="100%"
+    />
+  </a>
 </p>---
 
 🤝 CONNECT WITH ME
