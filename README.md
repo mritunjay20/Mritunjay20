@@ -122,8 +122,15 @@ Exploring AI agents, automation, and software integration to make technology mor
 
 <p align="center">
   <a href="YOUR_GITHUB_CITY_LINK">
-    <img src="YOUR_GITHUB_CITY_IMAGE_LINK" alt="MY 3D GITHUB CITY" width="100%">
-  </a>
+    <h2 align="center">🌳 My 3D Contribution Forest</h2>
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="My 3D GitHub contribution graph"
+    width="100%"
+  />
+</p>
 </p><p align="center">🏗️ EVERY CONTRIBUTION BUILDS MY DEVELOPER JOURNEY!</p>---
 
 🤝 CONNECT WITH ME
