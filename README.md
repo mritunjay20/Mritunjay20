@@ -129,7 +129,7 @@ Exploring AI agents, automation, and software integration to make technology mor
 🤝 CONNECT WITH ME
 
 <p align="center">
-  <a href="YOUR_TELEGRAM_LINK">
+  <a href="https://t.me/Developer_360_bot">
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="YOUR_LINKEDIN_LINK">
