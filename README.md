@@ -25,3 +25,12 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,arduino,vscode,github" alt="Technologies" />
 </p>
+<h2 align="center">🌳 My 3D Contribution Forest</h2>
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="My 3D GitHub contribution graph"
+    width="100%"
+  />
+</p>
