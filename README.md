@@ -115,7 +115,7 @@ Exploring AI agents, automation, and software integration to make technology mor
 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mritunjay20&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mritunjay20&theme=tokyonight&no-frame=true" alt="GitHub Trophies" width="100%">
 </p>---
 
 <h2 align="center">🏙️ My GitHub City</h2>
