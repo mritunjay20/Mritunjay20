@@ -135,7 +135,7 @@ Exploring AI agents, automation, and software integration to make technology mor
   <a href="https://www.linkedin.com/in/mritunjay-saini-564218445?trk=contact-info">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="YOUR_YOUTUBE_LINK">
+  <a href="https://youtube.com/@mritunjay_saini1?si=nEiYREF06ewXL-lg">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="YOUR_INSTAGRAM_LINK">
