@@ -150,7 +150,7 @@ Exploring AI agents, automation, and software integration to make technology mor
   <a href="YOUR_PINTEREST_LINK">
     <img src="https://img.shields.io/badge/PINTEREST-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
   </a>
-  <a href="YOUR_X_LINK">
+  <a href="https://x.com/mritunjay_33442">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </p>---
