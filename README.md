@@ -120,9 +120,7 @@ Exploring AI agents, automation, and software integration to make technology mor
 
 🏙️ MY GITHUB CITY
 
-<p align="center">
-  <a href="YOUR_GITHUB_CITY_LINK">
-    <h2 align="center">🌳 My 3D Contribution Forest</h2>
+<h2 align="center">🌳 My 3D Contribution Forest</h2>
 
 <p align="center">
   <img
@@ -130,8 +128,7 @@ Exploring AI agents, automation, and software integration to make technology mor
     alt="My 3D GitHub contribution graph"
     width="100%"
   />
-</p>
-</p><p align="center">🏗️ EVERY CONTRIBUTION BUILDS MY DEVELOPER JOURNEY!</p>---
+</p>---
 
 🤝 CONNECT WITH ME
 
