@@ -106,16 +106,16 @@ Exploring AI agents, automation, and software integration to make technology mor
 📊 GITHUB STATISTICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mritunjay20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritunjay20&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
 </p><p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+  <img width="90%" src="https://streak-stats.demolab.com?user=mritunjay20&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>---
 
 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=mritunjay20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub trophies">
 </p>---
 
 🏙️ MY GITHUB CITY
