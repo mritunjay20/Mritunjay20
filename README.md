@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mritunjay20/github-contribution-snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
