@@ -132,7 +132,7 @@ Exploring AI agents, automation, and software integration to make technology mor
   <a href="https://t.me/Developer_360_bot">
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/mritunjay-saini-564218445?trk=contact-info">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="YOUR_YOUTUBE_LINK">
