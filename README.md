@@ -18,10 +18,10 @@ I'm a student passionate about technology, programming, electronics, mechanics, 
 
 ---
 
-🐍 MY CONTRIBUTION SNAKE
+## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mritunjay20/Mritunjay20/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%">
+  <img src="https://raw.githubusercontent.com/mritunjay20/github-contribution-snake/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>---
 
 🌟 PROJECT HIGHLIGHTS
