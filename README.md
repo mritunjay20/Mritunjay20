@@ -112,11 +112,7 @@ Exploring AI agents, automation, and software integration to make technology mor
   <img width="90%" src="https://streak-stats.demolab.com?user=mritunjay20&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>---
 
-🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="GitHub Trophies" width="100%">
-</p>---
 
 <h2 align="center">🏙️ My GitHub City</h2>
 
