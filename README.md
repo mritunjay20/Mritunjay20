@@ -33,4 +33,14 @@ Here are some ideas to get you started:
     alt="My 3D GitHub contribution graph"
     width="100%"
   />
+</p><h2 align="center">🏙️ My GitHub City</h2>
+
+<p align="center">
+  <a href="https://gitcity.natrajx.in/YOUR_USERNAME">
+    <img
+      src="https://gitcity.natrajx.in/api/svg?u=mritunjay20&theme=aurora"
+      alt="My GitHub contributions as a 3D city"
+      width="100%"
+    />
+  </a>
 </p>
