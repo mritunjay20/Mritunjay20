@@ -1,7 +1,7 @@
 <h1 align="center">👋 HI, I'M MRITUNJAY!</h1><h3 align="center">🎓 CLASS 10 STUDENT | 💻 ASPIRING DEVELOPER | 🤖 ROBOTICS & IoT ENTHUSIAST</h3><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=ROBOTICS+%26+IoT+ENTHUSIAST;BUILDING+SMART+AGRICULTURE+PROJECTS;EXPLORING+ELECTRONICS+%26+AUTOMATION;LEARNING+WEB+DEVELOPMENT;TURNING+IDEAS+INTO+REALITY" alt="Animated introduction">
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=mritunjay20&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views">
 </p>---
 
 🚀 ABOUT ME
@@ -21,7 +21,7 @@ I'm a student passionate about technology, programming, electronics, mechanics, 
 🐍 MY CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%">
+  <img src="https://raw.githubusercontent.com/mritunjay20/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%">
 </p>---
 
 🌟 PROJECT HIGHLIGHTS
