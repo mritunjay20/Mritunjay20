@@ -6,7 +6,7 @@
 
 🚀 ABOUT ME
 
-portfolio-https://mritunjay-portfolio-dist-delta.vercel.app
+portfolio-https://mritunjayportfolio1.vercel.app
 
 I'm a student passionate about technology, programming, electronics, mechanics, design, and innovation. I enjoy combining hardware and software to develop creative solutions to real-world problems.
 
